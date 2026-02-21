@@ -1,0 +1,78 @@
+# 古川 慎 – Forsaken kiss
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Forbidden kiss
+Baby, tell me
+We're on a way to Moonlight Traveling
+Can't get fell asleep there's something crazy
+going on
+My heart gets overheated just because of you
+I tried to find a word but it's ail vanished
+into the air
+Shall we have a drink before I start to cry?
+Every time when I touch your inside
+Another music comes out to my sanctuary
+We're had to find the truth of this game
+I don't wanna losing your love
+Forsaken kiss
+Please tell me what you are thinking
+Stars falling tonight
+(Yeah, only just two of us)
+I've been waiting, longing, craving for your
+love
+Because I trapped, fascinated, you know? (Yeah,
+only just two of us)
+Feels like burning, raging, please don't ever
+stop singing a lullaby
+Forever it's you (Moonlight Traveling)
+Crescent moonlight, hold tight
+Cannot take my eyes away from your shine
+Lights up this empty room
+Gotta find out evidence of love before I get
+drown into you
+Ignore that silly rules even we don't care about
+it right?
+This world goes round and round, so I gotta
+repaint it new
+Before I fell in love there was nothing more to
+say about
+Now I can not go back I'm addicted to your heart
+So give it away
+Don't be afraid
+I'm in a prison of appetition
+Some of the toxins killing me softly
+(Stare at each other)
+Crying like a lost child
+Trying not to be broken
+(But… why?) cause
+I don't wanna losing your love
+Before my beautiful heaven breaking over
+I'll take away my angel
+No matter what is waiting for us
+Yes, I'll never losing your love
+Close your eyes
+Can't you see my heartbeat going faster
+No one's gonna hurt anymore
+Illuminated by the lonely moonshine
+I…I don't wanna losing your love
+Forsaken kiss
+Please tell me what you're thinking
+Stars falling tonight
+(Yeah, only just two of us)
+I've been waiting, longing, craving for your
+love
+Because I'm trapped, fascinated, you know?
+(Yeah, only just two of us)
+Feels like burning, raging, please don't ever
+stop singing a lullaby
+Forever it's you (Moonlight Traveling)
+Crescent moonlight, hold tight
+Cannot take my eyes away from your shine
+Lights up this empty room
+I remember that sweetest kiss that you gave me
+in a flash
+(Gotta find out evidence of love before I get
+drown into you)
+```
