@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Forsaken kiss",
+  "base_artist": "古川 慎",
+  "createdAt": "2026-02-21T05:18:40.565317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/01_Forsaken_UFO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God's Forsaken",
+      "artist": "Venom",
+      "has_synced": false,
+      "path": "select/02_God's_Forsaken_Venom.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anemone (Withered Hopes…Forsaken)",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/03_Anemone_(Withered_Hopes...Forsaken)_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Anemone (Withered Hopes... Forsaken)",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/04_Anemone_(Withered_Hopes..._Forsaken)_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God of the Forsaken",
+      "artist": "Morbid Angel",
+      "has_synced": false,
+      "path": "select/05_God_of_the_Forsaken_Morbid_Angel.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God of the Forsaken",
+      "artist": "Morbid Angel",
+      "has_synced": true,
+      "path": "select/06_God_of_the_Forsaken_Morbid_Angel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/07_Forsaken_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "Midnattsol",
+      "has_synced": false,
+      "path": "select/08_Forsaken_Midnattsol.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/09_Forsaken_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/10_Forsaken_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forsaken Love",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/11_Forsaken_Love_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/12_Forsaken_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "God Forsaken",
+      "artist": "Byzantine",
+      "has_synced": false,
+      "path": "select/13_God_Forsaken_Byzantine.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forsaken World",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/14_Forsaken_World_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forsaken",
+      "artist": "David Draiman",
+      "has_synced": true,
+      "path": "select/15_Forsaken_David_Draiman.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forsaken kiss",
+      "artist": "古川慎",
+      "has_synced": false,
+      "path": "select/pl_01_Forsaken_kiss_古川慎.txt"
+    }
+  ]
+}
